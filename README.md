@@ -66,7 +66,7 @@ Key plots included in this project:
 ## **How to Run the Project**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Bitcoin-Data-Analysis.git
+   git clone https://github.com/anushukla1808/Bitcoin-Data-Analysis.git
    cd Bitcoin-Data-Analysis
 
 ## **Next Steps**
